@@ -7,3 +7,7 @@ https://drive.google.com/drive/folders/1W-ECmUvl5_3Oy1ZPv72RfScK5_aZMGKr
 
 3. Slides, Labs, Sample:
 https://drive.google.com/drive/folders/17kbUeVK6lOtE4ZNX9uZ8NsPXfqCZ55QL?usp=drive_link
+
+Nộp Bài
+
+https://docs.google.com/spreadsheets/d/1jaHwffcvl7Lq1OLrzNgyxSGyCugxaXzjk18DUdykHjQ/edit?gid=0#gid=0
