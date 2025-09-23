@@ -3,7 +3,7 @@ package iuh.fit.Dao;
 import iuh.fit.Models.TinTuc;
 import iuh.fit.Utils.JpaUtil;
 import jakarta.persistence.EntityManager;
-import java.util.List;
+import java.util.List; 
 
 public class TinTucDAO {
 
